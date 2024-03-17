@@ -1,2 +1,2 @@
 # WMFS-GA
-Matlab code for the paper "Multi-view Stable Feature Selection with Adaptive Optimization of View Weights"
+Matlab code for the paper "Weighted multi-view feature selection with genetic algorithm"
